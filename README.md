@@ -1,6 +1,9 @@
 # Reversi_Algorithm
 [제2회 알고리즘 대회] 오델로 게임(Reversi Game) 알고리즘
 
+![012](https://user-images.githubusercontent.com/13028129/148027520-7f2085ac-3b4e-4d84-8c90-1f44d42333af.gif)
+
+
 - 설명
 
   오델로 게임의 플레이 알고리즘 로직을 작성하여 상대편과 게임을 하여 3판 2승 먼저 승리하면 게임 오버 됩니다.
